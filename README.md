@@ -1,6 +1,6 @@
 <div id ="header" align = "center">
     <img src="https://media.giphy.com/media/dB15acdZ12Z7JJ6lOC/giphy.gif" width="20"/>
-    <h1 align="center"> Hi 👋, I'm Mario</h1>
+    <h1 align="center"> Hi 👋</h1>
     <h3 align="center">I'm passionate about fullstack programming, I'm from Peru.
         specialized in technologies like .NET and JavaScrip.</h3>
 </div>
